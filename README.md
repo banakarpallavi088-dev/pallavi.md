@@ -1,2 +1,2 @@
 # pallavi.md
-this is my fisrt repository
+This is my fisrt repository
